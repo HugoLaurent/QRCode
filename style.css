@@ -1,0 +1,9 @@
+/* Colors */
+
+:root {
+    --color-bg-card:     hsl(0, 0%, 100%);
+    --color-bg-text:     hsl(212, 45%, 89%);
+    --color-bg-main:     hsl(220, 15%, 55%);
+    --colot-bg-qr-code:  hsl(218, 44%, 22%);
+}
+
